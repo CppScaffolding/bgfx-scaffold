@@ -1,0 +1,4 @@
+## .gitignore file for bgfx-scaffold
+
+## ignore folder fetched through gclient
+bgfx
